@@ -1,0 +1,7 @@
+bags.txt
+Created Wed May  9 09:27:14 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bags
+
